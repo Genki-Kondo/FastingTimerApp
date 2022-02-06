@@ -2,7 +2,7 @@
 //  TimeViewController.swift
 //  FastingTime
 //
-//  Created by 近藤元気 on 2021/05/29.
+//  Created by 近藤元気 on 2021/05/29
 //
 
 import UIKit

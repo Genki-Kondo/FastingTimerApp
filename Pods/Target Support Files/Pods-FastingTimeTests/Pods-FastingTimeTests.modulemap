@@ -1,0 +1,6 @@
+framework module Pods_FastingTimeTests {
+  umbrella header "Pods-FastingTimeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

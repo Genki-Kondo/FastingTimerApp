@@ -3,7 +3,7 @@
 //  FastingTime
 //
 //  Created by 近藤元気 on 2021/05/29
-//
+//テスト
 
 import UIKit
 import MBCircularProgressBar
